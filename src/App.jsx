@@ -17,7 +17,7 @@ function App(){
     return(
 <div className="site">
     <div className="hero">
-        <img className="hero-img" src="banner.png" alt="Cuidadora sorrindo com idosa" />
+        <img className="hero-img" src="logo.jpeg" alt="Cuidadora sorrindo com idosa" />
     </div>
 
     <div className="app">
