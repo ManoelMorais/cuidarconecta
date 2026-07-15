@@ -36,7 +36,7 @@ function Cards({
           {cidadeColaborador} - {estadoColaborador}
         </p>
         <p>Avaliação: {nota}</p>
-        <span>{valorHoraTexto}</span>
+        <span>Valor por hora: {valorHoraTexto}</span>
       </div>
     </div>
   );
