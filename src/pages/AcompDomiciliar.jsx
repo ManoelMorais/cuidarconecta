@@ -1,47 +1,12 @@
-import Cards from "../components/Cards";
+import ColaboradoresGrid from "../components/ColaboradoresGrid";
 
 function AcompDomiciliar() {
   return (
-    <div>
-      <h2>ACOMPANHANTES DOMICILIARES</h2>
-
-      <div className="cards-grid">
-        <Cards
-          imagem="fototeste.webp"
-          nome="natalia"
-          valorhora="R$ 30/h"
-          cidade="aracaju"
-          estado="SE"
-          avaliacao="4.9"
-        />
-        <Cards
-          imagem="fototeste.webp"
-          nome="natalia"
-          valorhora="R$ 30/h"
-          cidade="aracaju"
-          estado="SE"
-          avaliacao="4.9"
-        />
-        <Cards
-          imagem="fototeste.webp"
-          nome="natalia"
-          valorhora="R$ 30/h"
-          cidade="aracaju"
-          estado="SE"
-          avaliacao="4.9"
-        />
-        <Cards
-          imagem="fototeste.webp"
-          nome="natalia"
-          valorhora="R$ 30/h"
-          cidade="aracaju"
-          estado="SE"
-          avaliacao="4.9"
-        />
-      </div>
-    </div>
+    <ColaboradoresGrid
+      titulo="ACOMPANHANTES DOMICILIARES"
+      tela="AcompDomiciliar"
+    />
   );
 }
 
 export default AcompDomiciliar;
-

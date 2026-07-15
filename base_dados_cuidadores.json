@@ -1,0 +1,5164 @@
+[
+  {
+    "id": "CUID-2026-00001",
+    "nomeCompleto": "Mariana Souza Lima",
+    "genero": "Feminino",
+    "idade": 39,
+    "telefone": "(79) 94811-9279",
+    "email": "mariana.souza.lima@email.com",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Idosos",
+    "especialidades": [
+      "Alzheimer",
+      "Administração de medicamentos",
+      "Cuidados paliativos"
+    ],
+    "anosExperiencia": 8,
+    "escolaridade": "Ensino Superior Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2016-11-24",
+        "cargaHoraria": "120h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Integral",
+        "Plantão 12x36",
+        "Manhã"
+      ],
+      "diasDisponiveis": [
+        "Sexta",
+        "Quarta",
+        "Segunda",
+        "Terça",
+        "Sábado",
+        "Quinta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Aracaju"
+      ],
+      "raioAtendimentoKm": 20
+    },
+    "valores": {
+      "valorDiaria": 112.27,
+      "valorMensal": 2825.8,
+      "valorHora": 24.1,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 3.9,
+      "totalAvaliacoes": 3
+    },
+    "idiomas": [
+      "Português",
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2025-04-25",
+    "contratosRealizados": 18,
+    "taxaResposta": "72%"
+  },
+  {
+    "id": "CUID-2026-00002",
+    "nomeCompleto": "Fernanda Oliveira",
+    "genero": "Feminino",
+    "idade": 46,
+    "telefone": "(79) 94598-6313",
+    "email": "fernanda.oliveira@email.com",
+    "cidade": "Barra dos Coqueiros",
+    "estado": "SE",
+    "areaAtuacao": "Acompanhante Domiciliar",
+    "especialidades": [
+      "Supervisão noturna",
+      "Auxílio em tarefas domésticas",
+      "Companhia e apoio emocional"
+    ],
+    "anosExperiencia": 9,
+    "escolaridade": "Ensino Fundamental Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2020-03-12",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2025-05-23",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2016-10-21",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Plantão 12x36",
+        "Noite"
+      ],
+      "diasDisponiveis": [
+        "Terça",
+        "Sexta",
+        "Quarta"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Lagarto",
+        "Barra dos Coqueiros"
+      ],
+      "raioAtendimentoKm": 15
+    },
+    "valores": {
+      "valorDiaria": 131.79,
+      "valorMensal": 2465.89,
+      "valorHora": 27.54,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.3,
+      "totalAvaliacoes": 31
+    },
+    "idiomas": [
+      "Inglês básico",
+      "Português"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": true,
+    "dataCadastro": "2025-07-20",
+    "contratosRealizados": 4,
+    "taxaResposta": "82%"
+  },
+  {
+    "id": "CUID-2026-00003",
+    "nomeCompleto": "Danilo Cardoso",
+    "genero": "Masculino",
+    "idade": 51,
+    "telefone": "(79) 99201-3927",
+    "email": "danilo.cardoso@email.com",
+    "cidade": "São Cristóvão",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Pessoas com Deficiência",
+    "especialidades": [
+      "Autismo (TEA)",
+      "Deficiência física",
+      "Deficiência visual"
+    ],
+    "anosExperiencia": 17,
+    "escolaridade": "Ensino Superior Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2015-11-24",
+        "cargaHoraria": "20h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2023-05-25",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2016-05-14",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-211579"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Integral",
+        "Tarde",
+        "Manhã"
+      ],
+      "diasDisponiveis": [
+        "Domingo",
+        "Terça",
+        "Sexta",
+        "Segunda",
+        "Quarta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Nossa Senhora do Socorro"
+      ],
+      "raioAtendimentoKm": 20
+    },
+    "valores": {
+      "valorDiaria": 205.45,
+      "valorMensal": 4045.5,
+      "valorHora": 23.23,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.1,
+      "totalAvaliacoes": 48
+    },
+    "idiomas": [
+      "Libras"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": false,
+    "dataCadastro": "2025-10-14",
+    "contratosRealizados": 13,
+    "taxaResposta": "99%"
+  },
+  {
+    "id": "CUID-2026-00004",
+    "nomeCompleto": "Michele Freitas",
+    "genero": "Feminino",
+    "idade": 41,
+    "telefone": "(79) 92104-1514",
+    "email": "michele.freitas@email.com",
+    "cidade": "Lagarto",
+    "estado": "SE",
+    "areaAtuacao": "Técnico de Enfermagem Domiciliar",
+    "especialidades": [
+      "Curativos",
+      "Fisioterapia respiratória básica",
+      "Monitoramento de sinais vitais"
+    ],
+    "anosExperiencia": 13,
+    "escolaridade": "Ensino Técnico Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2022-09-15",
+        "cargaHoraria": "20h"
+      },
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2018-02-11",
+        "cargaHoraria": "20h"
+      },
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2023-04-19",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Plantão 12x36",
+        "Tarde"
+      ],
+      "diasDisponiveis": [
+        "Terça",
+        "Sábado",
+        "Sexta",
+        "Quinta",
+        "Segunda",
+        "Domingo",
+        "Quarta"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Lagarto"
+      ],
+      "raioAtendimentoKm": 25
+    },
+    "valores": {
+      "valorDiaria": 142.52,
+      "valorMensal": 2909.98,
+      "valorHora": 32.69,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 3.9,
+      "totalAvaliacoes": 42
+    },
+    "idiomas": [
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2024-03-09",
+    "contratosRealizados": 29,
+    "taxaResposta": "77%"
+  },
+  {
+    "id": "CUID-2026-00005",
+    "nomeCompleto": "Simone Araújo",
+    "genero": "Feminino",
+    "idade": 57,
+    "telefone": "(79) 98973-3536",
+    "email": "simone.araujo@email.com",
+    "cidade": "Nossa Senhora do Socorro",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador Hospitalar",
+    "especialidades": [
+      "Acompanhamento em internações",
+      "Comunicação com equipe médica",
+      "Suporte pós-operatório"
+    ],
+    "anosExperiencia": 4,
+    "escolaridade": "Ensino Médio Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2015-02-25",
+        "cargaHoraria": "40h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2021-08-16",
+        "cargaHoraria": "40h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2021-01-06",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Integral"
+      ],
+      "diasDisponiveis": [
+        "Segunda",
+        "Sábado",
+        "Quarta",
+        "Domingo",
+        "Quinta",
+        "Terça",
+        "Sexta"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Nossa Senhora do Socorro"
+      ],
+      "raioAtendimentoKm": 30
+    },
+    "valores": {
+      "valorDiaria": 108.16,
+      "valorMensal": 4126.91,
+      "valorHora": 24.86,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.1,
+      "totalAvaliacoes": 31
+    },
+    "idiomas": [
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2023-11-21",
+    "contratosRealizados": 19,
+    "taxaResposta": "84%"
+  },
+  {
+    "id": "CUID-2026-00006",
+    "nomeCompleto": "Otávio Vieira",
+    "genero": "Masculino",
+    "idade": 26,
+    "telefone": "(79) 95905-2697",
+    "email": "otavio.vieira@email.com",
+    "cidade": "Barra dos Coqueiros",
+    "estado": "SE",
+    "areaAtuacao": "Babá",
+    "especialidades": [
+      "Atividades lúdicas",
+      "Alimentação escolar",
+      "Rotina de estudos"
+    ],
+    "anosExperiencia": 1,
+    "escolaridade": "Ensino Médio Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2016-02-18",
+        "cargaHoraria": "40h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2019-03-12",
+        "cargaHoraria": "20h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2020-05-06",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Integral"
+      ],
+      "diasDisponiveis": [
+        "Quarta",
+        "Domingo",
+        "Sexta",
+        "Terça"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Lagarto",
+        "São Cristóvão",
+        "Itabaiana"
+      ],
+      "raioAtendimentoKm": 25
+    },
+    "valores": {
+      "valorDiaria": 130.13,
+      "valorMensal": 4252.03,
+      "valorHora": 18.86,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.4,
+      "totalAvaliacoes": 43
+    },
+    "idiomas": [
+      "Espanhol básico",
+      "Inglês básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": true,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2023-12-05",
+    "contratosRealizados": 34,
+    "taxaResposta": "71%"
+  },
+  {
+    "id": "CUID-2026-00007",
+    "nomeCompleto": "Anderson Dias",
+    "genero": "Masculino",
+    "idade": 57,
+    "telefone": "(79) 96794-7658",
+    "email": "anderson.dias@email.com",
+    "cidade": "Barra dos Coqueiros",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Idosos",
+    "especialidades": [
+      "Pós-cirúrgico",
+      "Mobilidade reduzida",
+      "Cuidados paliativos"
+    ],
+    "anosExperiencia": 5,
+    "escolaridade": "Ensino Superior Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2019-06-26",
+        "cargaHoraria": "20h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Tarde"
+      ],
+      "diasDisponiveis": [
+        "Quinta",
+        "Segunda",
+        "Terça",
+        "Quarta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Aracaju",
+        "Lagarto"
+      ],
+      "raioAtendimentoKm": 10
+    },
+    "valores": {
+      "valorDiaria": 145.91,
+      "valorMensal": 1904.56,
+      "valorHora": 26.0,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.6,
+      "totalAvaliacoes": 17
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": true,
+    "fumante": true,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2024-11-17",
+    "contratosRealizados": 25,
+    "taxaResposta": "91%"
+  },
+  {
+    "id": "CUID-2026-00008",
+    "nomeCompleto": "Carlos Eduardo Andrade",
+    "genero": "Masculino",
+    "idade": 29,
+    "telefone": "(79) 99821-4228",
+    "email": "carlos.eduardo.andrade@email.com",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "areaAtuacao": "Acompanhante Domiciliar",
+    "especialidades": [
+      "Companhia e apoio emocional",
+      "Auxílio na alimentação",
+      "Supervisão noturna"
+    ],
+    "anosExperiencia": 5,
+    "escolaridade": "Ensino Técnico Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2015-02-20",
+        "cargaHoraria": "80h"
+      },
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2020-07-20",
+        "cargaHoraria": "120h"
+      },
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2021-10-07",
+        "cargaHoraria": "60h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Noite",
+        "Integral",
+        "Plantão 12x36"
+      ],
+      "diasDisponiveis": [
+        "Sábado",
+        "Quarta",
+        "Sexta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Barra dos Coqueiros",
+        "Lagarto"
+      ],
+      "raioAtendimentoKm": 20
+    },
+    "valores": {
+      "valorDiaria": 166.53,
+      "valorMensal": 2317.97,
+      "valorHora": 29.3,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.9,
+      "totalAvaliacoes": 35
+    },
+    "idiomas": [
+      "Libras",
+      "Inglês básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2024-08-22",
+    "contratosRealizados": 13,
+    "taxaResposta": "86%"
+  },
+  {
+    "id": "CUID-2026-00009",
+    "nomeCompleto": "Wesley Batista",
+    "genero": "Masculino",
+    "idade": 32,
+    "telefone": "(79) 98784-2193",
+    "email": "wesley.batista@email.com",
+    "cidade": "Nossa Senhora do Socorro",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Pessoas com Deficiência",
+    "especialidades": [
+      "Deficiência intelectual",
+      "Mobilidade assistida",
+      "Deficiência física"
+    ],
+    "anosExperiencia": 11,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2025-11-20",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2018-11-10",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Plantão 12x36",
+        "Integral",
+        "Tarde"
+      ],
+      "diasDisponiveis": [
+        "Terça",
+        "Sábado",
+        "Segunda",
+        "Sexta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Estância"
+      ],
+      "raioAtendimentoKm": 40
+    },
+    "valores": {
+      "valorDiaria": 162.15,
+      "valorMensal": 1935.59,
+      "valorHora": 22.24,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.1,
+      "totalAvaliacoes": 4
+    },
+    "idiomas": [
+      "Libras",
+      "Inglês básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2025-05-25",
+    "contratosRealizados": 33,
+    "taxaResposta": "85%"
+  },
+  {
+    "id": "CUID-2026-00010",
+    "nomeCompleto": "Gabriela Martins",
+    "genero": "Feminino",
+    "idade": 50,
+    "telefone": "(79) 99890-8633",
+    "email": "gabriela.martins@email.com",
+    "cidade": "Lagarto",
+    "estado": "SE",
+    "areaAtuacao": "Técnico de Enfermagem Domiciliar",
+    "especialidades": [
+      "Aplicação de injeções",
+      "Fisioterapia respiratória básica",
+      "Curativos"
+    ],
+    "anosExperiencia": 3,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2019-06-11",
+        "cargaHoraria": "120h"
+      },
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2017-03-08",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Plantão 12x36",
+        "Manhã"
+      ],
+      "diasDisponiveis": [
+        "Quinta",
+        "Domingo",
+        "Segunda",
+        "Quarta",
+        "Terça",
+        "Sábado",
+        "Sexta"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "São Cristóvão"
+      ],
+      "raioAtendimentoKm": 25
+    },
+    "valores": {
+      "valorDiaria": 158.28,
+      "valorMensal": 2849.91,
+      "valorHora": 29.37,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.3,
+      "totalAvaliacoes": 28
+    },
+    "idiomas": [
+      "Português"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2023-05-13",
+    "contratosRealizados": 20,
+    "taxaResposta": "76%"
+  },
+  {
+    "id": "CUID-2026-00011",
+    "nomeCompleto": "Felipe Barbosa",
+    "genero": "Masculino",
+    "idade": 43,
+    "telefone": "(79) 91333-3496",
+    "email": "felipe.barbosa@email.com",
+    "cidade": "São Cristóvão",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador Hospitalar",
+    "especialidades": [
+      "Acompanhamento em internações",
+      "Cuidados intensivos básicos",
+      "Comunicação com equipe médica"
+    ],
+    "anosExperiencia": 13,
+    "escolaridade": "Ensino Médio Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2016-08-01",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2015-06-08",
+        "cargaHoraria": "160h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-232352"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Manhã",
+        "Tarde",
+        "Plantão 12x36"
+      ],
+      "diasDisponiveis": [
+        "Domingo",
+        "Quarta",
+        "Terça",
+        "Segunda",
+        "Quinta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Nossa Senhora do Socorro",
+        "São Cristóvão",
+        "Itabaiana"
+      ],
+      "raioAtendimentoKm": 40
+    },
+    "valores": {
+      "valorDiaria": 208.96,
+      "valorMensal": 2813.33,
+      "valorHora": 34.01,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.0,
+      "totalAvaliacoes": 17
+    },
+    "idiomas": [
+      "Inglês básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2025-11-11",
+    "contratosRealizados": 0,
+    "taxaResposta": "97%"
+  },
+  {
+    "id": "CUID-2026-00012",
+    "nomeCompleto": "Ricardo Rocha",
+    "genero": "Masculino",
+    "idade": 28,
+    "telefone": "(79) 92419-5569",
+    "email": "ricardo.rocha@email.com",
+    "cidade": "São Cristóvão",
+    "estado": "SE",
+    "areaAtuacao": "Babá",
+    "especialidades": [
+      "Atividades lúdicas",
+      "Alimentação escolar",
+      "Educação infantil"
+    ],
+    "anosExperiencia": 7,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2022-12-05",
+        "cargaHoraria": "80h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2023-11-09",
+        "cargaHoraria": "120h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2023-08-15",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-355709"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Integral",
+        "Plantão 12x36",
+        "Tarde"
+      ],
+      "diasDisponiveis": [
+        "Quinta",
+        "Quarta",
+        "Terça"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Estância",
+        "São Cristóvão"
+      ],
+      "raioAtendimentoKm": 20
+    },
+    "valores": {
+      "valorDiaria": 133.56,
+      "valorMensal": 3409.62,
+      "valorHora": 32.96,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.8,
+      "totalAvaliacoes": 17
+    },
+    "idiomas": [
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": true,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2024-04-13",
+    "contratosRealizados": 15,
+    "taxaResposta": "79%"
+  },
+  {
+    "id": "CUID-2026-00013",
+    "nomeCompleto": "Ricardo Rocha",
+    "genero": "Masculino",
+    "idade": 57,
+    "telefone": "(79) 94033-4138",
+    "email": "ricardo.rocha@email.com",
+    "cidade": "São Cristóvão",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Idosos",
+    "especialidades": [
+      "Alzheimer",
+      "Mobilidade reduzida",
+      "Administração de medicamentos"
+    ],
+    "anosExperiencia": 17,
+    "escolaridade": "Ensino Médio Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2023-06-12",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "Instituto Cuidar Mais",
+        "dataEmissao": "2019-05-09",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-874483"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Integral",
+        "Noite"
+      ],
+      "diasDisponiveis": [
+        "Domingo",
+        "Terça",
+        "Quarta"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "São Cristóvão"
+      ],
+      "raioAtendimentoKm": 10
+    },
+    "valores": {
+      "valorDiaria": 184.96,
+      "valorMensal": 2141.77,
+      "valorHora": 18.77,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.7,
+      "totalAvaliacoes": 9
+    },
+    "idiomas": [
+      "Português",
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": true,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": true,
+    "dataCadastro": "2024-08-04",
+    "contratosRealizados": 4,
+    "taxaResposta": "82%"
+  },
+  {
+    "id": "CUID-2026-00014",
+    "nomeCompleto": "Marcos Vinícius Souza",
+    "genero": "Masculino",
+    "idade": 58,
+    "telefone": "(79) 94697-9561",
+    "email": "marcos.vinicius.souza@email.com",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "areaAtuacao": "Acompanhante Domiciliar",
+    "especialidades": [
+      "Companhia e apoio emocional",
+      "Auxílio na alimentação",
+      "Acompanhamento em consultas"
+    ],
+    "anosExperiencia": 2,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2024-05-03",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-572398"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Integral",
+        "Plantão 12x36"
+      ],
+      "diasDisponiveis": [
+        "Sexta",
+        "Domingo",
+        "Segunda",
+        "Sábado",
+        "Quinta"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Nossa Senhora do Socorro",
+        "Aracaju",
+        "Lagarto"
+      ],
+      "raioAtendimentoKm": 15
+    },
+    "valores": {
+      "valorDiaria": 166.24,
+      "valorMensal": 2222.64,
+      "valorHora": 24.94,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.7,
+      "totalAvaliacoes": 40
+    },
+    "idiomas": [
+      "Inglês básico",
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": false,
+    "dataCadastro": "2023-09-08",
+    "contratosRealizados": 9,
+    "taxaResposta": "99%"
+  },
+  {
+    "id": "CUID-2026-00015",
+    "nomeCompleto": "Bruno Costa",
+    "genero": "Masculino",
+    "idade": 26,
+    "telefone": "(79) 98078-6280",
+    "email": "bruno.costa@email.com",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Pessoas com Deficiência",
+    "especialidades": [
+      "Mobilidade assistida",
+      "Autismo (TEA)",
+      "Deficiência intelectual"
+    ],
+    "anosExperiencia": 1,
+    "escolaridade": "Ensino Superior Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2024-05-15",
+        "cargaHoraria": "20h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "Instituto Cuidar Mais",
+        "dataEmissao": "2019-12-13",
+        "cargaHoraria": "60h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Tarde"
+      ],
+      "diasDisponiveis": [
+        "Sexta",
+        "Segunda",
+        "Quarta",
+        "Sábado",
+        "Quinta",
+        "Terça",
+        "Domingo"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Barra dos Coqueiros",
+        "Lagarto",
+        "Estância"
+      ],
+      "raioAtendimentoKm": 10
+    },
+    "valores": {
+      "valorDiaria": 156.4,
+      "valorMensal": 2902.54,
+      "valorHora": 23.46,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.5,
+      "totalAvaliacoes": 7
+    },
+    "idiomas": [
+      "Inglês básico",
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": true,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2023-07-28",
+    "contratosRealizados": 32,
+    "taxaResposta": "96%"
+  },
+  {
+    "id": "CUID-2026-00016",
+    "nomeCompleto": "Elaine Correia",
+    "genero": "Feminino",
+    "idade": 56,
+    "telefone": "(79) 95719-8178",
+    "email": "elaine.correia@email.com",
+    "cidade": "Barra dos Coqueiros",
+    "estado": "SE",
+    "areaAtuacao": "Técnico de Enfermagem Domiciliar",
+    "especialidades": [
+      "Sondas e cateteres",
+      "Curativos",
+      "Fisioterapia respiratória básica"
+    ],
+    "anosExperiencia": 15,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2023-06-20",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Integral",
+        "Tarde",
+        "Noite"
+      ],
+      "diasDisponiveis": [
+        "Quarta",
+        "Sexta",
+        "Segunda",
+        "Quinta"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Barra dos Coqueiros"
+      ],
+      "raioAtendimentoKm": 10
+    },
+    "valores": {
+      "valorDiaria": 177.73,
+      "valorMensal": 2215.72,
+      "valorHora": 33.86,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.5,
+      "totalAvaliacoes": 19
+    },
+    "idiomas": [
+      "Libras",
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": true,
+    "dataCadastro": "2024-07-11",
+    "contratosRealizados": 32,
+    "taxaResposta": "78%"
+  },
+  {
+    "id": "CUID-2026-00017",
+    "nomeCompleto": "Renata Carvalho",
+    "genero": "Feminino",
+    "idade": 41,
+    "telefone": "(79) 98749-7246",
+    "email": "renata.carvalho@email.com",
+    "cidade": "Itabaiana",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador Hospitalar",
+    "especialidades": [
+      "Suporte pós-operatório",
+      "Comunicação com equipe médica",
+      "Acompanhamento em internações"
+    ],
+    "anosExperiencia": 19,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "Instituto Cuidar Mais",
+        "dataEmissao": "2017-08-18",
+        "cargaHoraria": "80h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2020-09-25",
+        "cargaHoraria": "120h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "Instituto Cuidar Mais",
+        "dataEmissao": "2022-06-28",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Manhã",
+        "Tarde"
+      ],
+      "diasDisponiveis": [
+        "Sexta",
+        "Quarta",
+        "Segunda",
+        "Quinta",
+        "Domingo",
+        "Terça",
+        "Sábado"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Aracaju",
+        "Nossa Senhora do Socorro",
+        "Barra dos Coqueiros"
+      ],
+      "raioAtendimentoKm": 20
+    },
+    "valores": {
+      "valorDiaria": 140.63,
+      "valorMensal": 3670.3,
+      "valorHora": 29.05,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 3.9,
+      "totalAvaliacoes": 28
+    },
+    "idiomas": [
+      "Libras",
+      "Inglês básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2023-11-23",
+    "contratosRealizados": 6,
+    "taxaResposta": "84%"
+  },
+  {
+    "id": "CUID-2026-00018",
+    "nomeCompleto": "Michele Freitas",
+    "genero": "Feminino",
+    "idade": 41,
+    "telefone": "(79) 97267-4945",
+    "email": "michele.freitas@email.com",
+    "cidade": "Nossa Senhora do Socorro",
+    "estado": "SE",
+    "areaAtuacao": "Babá",
+    "especialidades": [
+      "Atividades lúdicas",
+      "Educação infantil",
+      "Recém-nascidos"
+    ],
+    "anosExperiencia": 1,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2015-05-12",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Instituto Cuidar Mais",
+        "dataEmissao": "2017-04-17",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Plantão 12x36"
+      ],
+      "diasDisponiveis": [
+        "Quinta",
+        "Quarta",
+        "Segunda",
+        "Domingo",
+        "Terça"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "São Cristóvão",
+        "Itabaiana"
+      ],
+      "raioAtendimentoKm": 20
+    },
+    "valores": {
+      "valorDiaria": 176.67,
+      "valorMensal": 2945.63,
+      "valorHora": 22.25,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 3.9,
+      "totalAvaliacoes": 13
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2023-10-28",
+    "contratosRealizados": 3,
+    "taxaResposta": "99%"
+  },
+  {
+    "id": "CUID-2026-00019",
+    "nomeCompleto": "André Carvalho",
+    "genero": "Masculino",
+    "idade": 36,
+    "telefone": "(79) 93153-2476",
+    "email": "andre.carvalho@email.com",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Idosos",
+    "especialidades": [
+      "Pós-cirúrgico",
+      "Administração de medicamentos",
+      "Alzheimer"
+    ],
+    "anosExperiencia": 12,
+    "escolaridade": "Ensino Técnico Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2024-05-22",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2025-11-27",
+        "cargaHoraria": "40h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2016-11-21",
+        "cargaHoraria": "20h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-442589"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Tarde"
+      ],
+      "diasDisponiveis": [
+        "Domingo",
+        "Sexta",
+        "Quarta",
+        "Sábado"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Estância",
+        "São Cristóvão"
+      ],
+      "raioAtendimentoKm": 40
+    },
+    "valores": {
+      "valorDiaria": 204.45,
+      "valorMensal": 3971.43,
+      "valorHora": 25.96,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.2,
+      "totalAvaliacoes": 39
+    },
+    "idiomas": [
+      "Português",
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2025-06-04",
+    "contratosRealizados": 14,
+    "taxaResposta": "85%"
+  },
+  {
+    "id": "CUID-2026-00020",
+    "nomeCompleto": "Roberta Cardoso",
+    "genero": "Feminino",
+    "idade": 57,
+    "telefone": "(79) 91609-5986",
+    "email": "roberta.cardoso@email.com",
+    "cidade": "Itabaiana",
+    "estado": "SE",
+    "areaAtuacao": "Acompanhante Domiciliar",
+    "especialidades": [
+      "Acompanhamento em consultas",
+      "Auxílio na alimentação",
+      "Companhia e apoio emocional"
+    ],
+    "anosExperiencia": 11,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2016-11-27",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Integral"
+      ],
+      "diasDisponiveis": [
+        "Quinta",
+        "Domingo",
+        "Quarta",
+        "Sábado"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Nossa Senhora do Socorro",
+        "Barra dos Coqueiros",
+        "Itabaiana"
+      ],
+      "raioAtendimentoKm": 25
+    },
+    "valores": {
+      "valorDiaria": 212.69,
+      "valorMensal": 2555.3,
+      "valorHora": 29.73,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 3.9,
+      "totalAvaliacoes": 10
+    },
+    "idiomas": [
+      "Português",
+      "Inglês básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": true,
+    "dataCadastro": "2024-02-22",
+    "contratosRealizados": 13,
+    "taxaResposta": "90%"
+  },
+  {
+    "id": "CUID-2026-00021",
+    "nomeCompleto": "Ana Paula Ferreira",
+    "genero": "Feminino",
+    "idade": 43,
+    "telefone": "(79) 91422-3159",
+    "email": "ana.paula.ferreira@email.com",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Pessoas com Deficiência",
+    "especialidades": [
+      "Deficiência intelectual",
+      "Deficiência visual",
+      "Deficiência física"
+    ],
+    "anosExperiencia": 8,
+    "escolaridade": "Ensino Fundamental Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2016-09-07",
+        "cargaHoraria": "120h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2018-06-25",
+        "cargaHoraria": "40h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2024-01-09",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Noite",
+        "Manhã",
+        "Plantão 12x36"
+      ],
+      "diasDisponiveis": [
+        "Segunda",
+        "Terça",
+        "Quinta",
+        "Domingo",
+        "Quarta"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Estância",
+        "São Cristóvão"
+      ],
+      "raioAtendimentoKm": 30
+    },
+    "valores": {
+      "valorDiaria": 171.24,
+      "valorMensal": 3020.41,
+      "valorHora": 21.77,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.6,
+      "totalAvaliacoes": 9
+    },
+    "idiomas": [
+      "Português",
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": true,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2023-06-20",
+    "contratosRealizados": 9,
+    "taxaResposta": "72%"
+  },
+  {
+    "id": "CUID-2026-00022",
+    "nomeCompleto": "Gabriela Martins",
+    "genero": "Feminino",
+    "idade": 59,
+    "telefone": "(79) 97779-6553",
+    "email": "gabriela.martins@email.com",
+    "cidade": "Lagarto",
+    "estado": "SE",
+    "areaAtuacao": "Técnico de Enfermagem Domiciliar",
+    "especialidades": [
+      "Curativos",
+      "Aplicação de injeções",
+      "Sondas e cateteres"
+    ],
+    "anosExperiencia": 18,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Instituto Cuidar Mais",
+        "dataEmissao": "2024-09-10",
+        "cargaHoraria": "80h"
+      },
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2024-07-04",
+        "cargaHoraria": "160h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-518098"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Manhã",
+        "Noite",
+        "Tarde"
+      ],
+      "diasDisponiveis": [
+        "Sábado",
+        "Quarta",
+        "Domingo",
+        "Terça",
+        "Sexta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Estância"
+      ],
+      "raioAtendimentoKm": 10
+    },
+    "valores": {
+      "valorDiaria": 111.19,
+      "valorMensal": 2060.72,
+      "valorHora": 30.56,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.9,
+      "totalAvaliacoes": 30
+    },
+    "idiomas": [
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2023-10-17",
+    "contratosRealizados": 13,
+    "taxaResposta": "74%"
+  },
+  {
+    "id": "CUID-2026-00023",
+    "nomeCompleto": "Leonardo Pereira",
+    "genero": "Masculino",
+    "idade": 28,
+    "telefone": "(79) 96062-6567",
+    "email": "leonardo.pereira@email.com",
+    "cidade": "Estância",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador Hospitalar",
+    "especialidades": [
+      "Cuidados intensivos básicos",
+      "Higiene hospitalar",
+      "Acompanhamento em internações"
+    ],
+    "anosExperiencia": 6,
+    "escolaridade": "Ensino Técnico Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2016-05-19",
+        "cargaHoraria": "40h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2021-09-25",
+        "cargaHoraria": "120h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2025-11-18",
+        "cargaHoraria": "20h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Integral"
+      ],
+      "diasDisponiveis": [
+        "Segunda",
+        "Terça",
+        "Domingo",
+        "Sexta",
+        "Quarta",
+        "Quinta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "São Cristóvão",
+        "Aracaju"
+      ],
+      "raioAtendimentoKm": 20
+    },
+    "valores": {
+      "valorDiaria": 137.4,
+      "valorMensal": 2675.83,
+      "valorHora": 34.0,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.1,
+      "totalAvaliacoes": 13
+    },
+    "idiomas": [
+      "Português"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": true,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2024-04-25",
+    "contratosRealizados": 32,
+    "taxaResposta": "73%"
+  },
+  {
+    "id": "CUID-2026-00024",
+    "nomeCompleto": "Vinícius Mendes",
+    "genero": "Masculino",
+    "idade": 29,
+    "telefone": "(79) 98055-3878",
+    "email": "vinicius.mendes@email.com",
+    "cidade": "Lagarto",
+    "estado": "SE",
+    "areaAtuacao": "Babá",
+    "especialidades": [
+      "Alimentação escolar",
+      "Atividades lúdicas",
+      "Educação infantil"
+    ],
+    "anosExperiencia": 5,
+    "escolaridade": "Ensino Médio Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2022-09-22",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2018-07-20",
+        "cargaHoraria": "20h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2018-05-07",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Integral",
+        "Noite",
+        "Manhã"
+      ],
+      "diasDisponiveis": [
+        "Domingo",
+        "Sábado",
+        "Segunda",
+        "Quinta",
+        "Sexta",
+        "Terça"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Barra dos Coqueiros",
+        "Itabaiana",
+        "Estância"
+      ],
+      "raioAtendimentoKm": 40
+    },
+    "valores": {
+      "valorDiaria": 176.82,
+      "valorMensal": 2581.69,
+      "valorHora": 24.89,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 3.8,
+      "totalAvaliacoes": 9
+    },
+    "idiomas": [
+      "Português",
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": true,
+    "fumante": true,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2024-12-11",
+    "contratosRealizados": 14,
+    "taxaResposta": "80%"
+  },
+  {
+    "id": "CUID-2026-00025",
+    "nomeCompleto": "Juliana Costa Silva",
+    "genero": "Feminino",
+    "idade": 54,
+    "telefone": "(79) 98354-6295",
+    "email": "juliana.costa.silva@email.com",
+    "cidade": "Itabaiana",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Idosos",
+    "especialidades": [
+      "Alzheimer",
+      "Mobilidade reduzida",
+      "Pós-cirúrgico"
+    ],
+    "anosExperiencia": 4,
+    "escolaridade": "Ensino Técnico Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2020-06-24",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2017-04-04",
+        "cargaHoraria": "40h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2018-03-20",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-258290"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Plantão 12x36"
+      ],
+      "diasDisponiveis": [
+        "Sábado",
+        "Quarta",
+        "Domingo",
+        "Segunda",
+        "Terça",
+        "Quinta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Nossa Senhora do Socorro",
+        "Estância"
+      ],
+      "raioAtendimentoKm": 20
+    },
+    "valores": {
+      "valorDiaria": 199.8,
+      "valorMensal": 2007.17,
+      "valorHora": 32.69,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.4,
+      "totalAvaliacoes": 33
+    },
+    "idiomas": [
+      "Português",
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": true,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2024-12-03",
+    "contratosRealizados": 32,
+    "taxaResposta": "90%"
+  },
+  {
+    "id": "CUID-2026-00026",
+    "nomeCompleto": "Ana Paula Ferreira",
+    "genero": "Feminino",
+    "idade": 37,
+    "telefone": "(79) 97333-5655",
+    "email": "ana.paula.ferreira@email.com",
+    "cidade": "Barra dos Coqueiros",
+    "estado": "SE",
+    "areaAtuacao": "Acompanhante Domiciliar",
+    "especialidades": [
+      "Acompanhamento em consultas",
+      "Companhia e apoio emocional",
+      "Auxílio em tarefas domésticas"
+    ],
+    "anosExperiencia": 15,
+    "escolaridade": "Ensino Técnico Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2024-03-12",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2021-07-25",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2024-01-26",
+        "cargaHoraria": "160h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Manhã",
+        "Tarde"
+      ],
+      "diasDisponiveis": [
+        "Quarta",
+        "Sábado",
+        "Quinta",
+        "Terça",
+        "Domingo"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Barra dos Coqueiros",
+        "Lagarto",
+        "São Cristóvão"
+      ],
+      "raioAtendimentoKm": 15
+    },
+    "valores": {
+      "valorDiaria": 180.41,
+      "valorMensal": 4038.19,
+      "valorHora": 30.56,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.5,
+      "totalAvaliacoes": 8
+    },
+    "idiomas": [
+      "Português",
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": true,
+    "dataCadastro": "2023-03-03",
+    "contratosRealizados": 18,
+    "taxaResposta": "97%"
+  },
+  {
+    "id": "CUID-2026-00027",
+    "nomeCompleto": "Priscila Gomes",
+    "genero": "Feminino",
+    "idade": 56,
+    "telefone": "(79) 98277-5668",
+    "email": "priscila.gomes@email.com",
+    "cidade": "Nossa Senhora do Socorro",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Pessoas com Deficiência",
+    "especialidades": [
+      "Deficiência física",
+      "Autismo (TEA)",
+      "Deficiência intelectual"
+    ],
+    "anosExperiencia": 17,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2024-03-20",
+        "cargaHoraria": "80h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2017-03-27",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2024-03-24",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Plantão 12x36",
+        "Tarde"
+      ],
+      "diasDisponiveis": [
+        "Sábado",
+        "Sexta",
+        "Quinta",
+        "Domingo",
+        "Terça"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Estância"
+      ],
+      "raioAtendimentoKm": 15
+    },
+    "valores": {
+      "valorDiaria": 196.15,
+      "valorMensal": 2173.68,
+      "valorHora": 22.25,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.7,
+      "totalAvaliacoes": 45
+    },
+    "idiomas": [
+      "Inglês básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": false,
+    "dataCadastro": "2023-04-27",
+    "contratosRealizados": 28,
+    "taxaResposta": "98%"
+  },
+  {
+    "id": "CUID-2026-00028",
+    "nomeCompleto": "Carlos Eduardo Andrade",
+    "genero": "Masculino",
+    "idade": 48,
+    "telefone": "(79) 98685-8349",
+    "email": "carlos.eduardo.andrade@email.com",
+    "cidade": "Barra dos Coqueiros",
+    "estado": "SE",
+    "areaAtuacao": "Técnico de Enfermagem Domiciliar",
+    "especialidades": [
+      "Monitoramento de sinais vitais",
+      "Sondas e cateteres",
+      "Fisioterapia respiratória básica"
+    ],
+    "anosExperiencia": 2,
+    "escolaridade": "Ensino Superior Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2018-07-03",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2015-06-04",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2020-03-05",
+        "cargaHoraria": "20h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Noite"
+      ],
+      "diasDisponiveis": [
+        "Domingo",
+        "Terça",
+        "Sexta",
+        "Quinta"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "São Cristóvão"
+      ],
+      "raioAtendimentoKm": 10
+    },
+    "valores": {
+      "valorDiaria": 105.73,
+      "valorMensal": 2933.53,
+      "valorHora": 31.5,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.7,
+      "totalAvaliacoes": 10
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": true,
+    "aceitaPets": true,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2025-07-06",
+    "contratosRealizados": 5,
+    "taxaResposta": "86%"
+  },
+  {
+    "id": "CUID-2026-00029",
+    "nomeCompleto": "Marcos Vinícius Souza",
+    "genero": "Masculino",
+    "idade": 55,
+    "telefone": "(79) 96447-3185",
+    "email": "marcos.vinicius.souza@email.com",
+    "cidade": "Itabaiana",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador Hospitalar",
+    "especialidades": [
+      "Higiene hospitalar",
+      "Suporte pós-operatório",
+      "Cuidados intensivos básicos"
+    ],
+    "anosExperiencia": 18,
+    "escolaridade": "Ensino Fundamental Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2015-07-28",
+        "cargaHoraria": "80h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2025-07-12",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2015-06-26",
+        "cargaHoraria": "20h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-469412"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Tarde",
+        "Plantão 12x36",
+        "Noite"
+      ],
+      "diasDisponiveis": [
+        "Sábado",
+        "Terça",
+        "Domingo",
+        "Segunda",
+        "Quarta",
+        "Sexta"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Nossa Senhora do Socorro"
+      ],
+      "raioAtendimentoKm": 15
+    },
+    "valores": {
+      "valorDiaria": 206.29,
+      "valorMensal": 2652.11,
+      "valorHora": 23.27,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.6,
+      "totalAvaliacoes": 44
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2024-07-24",
+    "contratosRealizados": 28,
+    "taxaResposta": "98%"
+  },
+  {
+    "id": "CUID-2026-00030",
+    "nomeCompleto": "Felipe Barbosa",
+    "genero": "Masculino",
+    "idade": 33,
+    "telefone": "(79) 95843-6021",
+    "email": "felipe.barbosa@email.com",
+    "cidade": "Lagarto",
+    "estado": "SE",
+    "areaAtuacao": "Babá",
+    "especialidades": [
+      "Educação infantil",
+      "Alimentação escolar",
+      "Atividades lúdicas"
+    ],
+    "anosExperiencia": 8,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2023-05-26",
+        "cargaHoraria": "20h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2021-02-14",
+        "cargaHoraria": "120h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-731894"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Plantão 12x36"
+      ],
+      "diasDisponiveis": [
+        "Quinta",
+        "Segunda",
+        "Quarta",
+        "Domingo",
+        "Terça"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Lagarto",
+        "Barra dos Coqueiros",
+        "São Cristóvão"
+      ],
+      "raioAtendimentoKm": 30
+    },
+    "valores": {
+      "valorDiaria": 196.13,
+      "valorMensal": 3634.41,
+      "valorHora": 34.2,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 3.9,
+      "totalAvaliacoes": 8
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2025-08-12",
+    "contratosRealizados": 23,
+    "taxaResposta": "84%"
+  },
+  {
+    "id": "CUID-2026-00031",
+    "nomeCompleto": "Luciana Dias",
+    "genero": "Feminino",
+    "idade": 30,
+    "telefone": "(79) 94515-5678",
+    "email": "luciana.dias@email.com",
+    "cidade": "São Cristóvão",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Idosos",
+    "especialidades": [
+      "Cuidados paliativos",
+      "Alzheimer",
+      "Mobilidade reduzida"
+    ],
+    "anosExperiencia": 9,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2025-05-08",
+        "cargaHoraria": "20h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2017-08-17",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Manhã"
+      ],
+      "diasDisponiveis": [
+        "Terça",
+        "Sábado",
+        "Quinta",
+        "Segunda",
+        "Quarta",
+        "Domingo"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Itabaiana",
+        "São Cristóvão",
+        "Lagarto"
+      ],
+      "raioAtendimentoKm": 15
+    },
+    "valores": {
+      "valorDiaria": 185.42,
+      "valorMensal": 4303.78,
+      "valorHora": 28.84,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.6,
+      "totalAvaliacoes": 18
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2025-03-20",
+    "contratosRealizados": 5,
+    "taxaResposta": "72%"
+  },
+  {
+    "id": "CUID-2026-00032",
+    "nomeCompleto": "Paulo Henrique Ribeiro",
+    "genero": "Masculino",
+    "idade": 52,
+    "telefone": "(79) 93981-3114",
+    "email": "paulo.henrique.ribeiro@email.com",
+    "cidade": "Barra dos Coqueiros",
+    "estado": "SE",
+    "areaAtuacao": "Acompanhante Domiciliar",
+    "especialidades": [
+      "Supervisão noturna",
+      "Acompanhamento em consultas",
+      "Companhia e apoio emocional"
+    ],
+    "anosExperiencia": 17,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2024-02-05",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2016-08-15",
+        "cargaHoraria": "160h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Integral"
+      ],
+      "diasDisponiveis": [
+        "Quarta",
+        "Terça",
+        "Sábado",
+        "Domingo"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "São Cristóvão",
+        "Nossa Senhora do Socorro",
+        "Estância"
+      ],
+      "raioAtendimentoKm": 15
+    },
+    "valores": {
+      "valorDiaria": 176.21,
+      "valorMensal": 3287.27,
+      "valorHora": 20.13,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.6,
+      "totalAvaliacoes": 37
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2025-04-25",
+    "contratosRealizados": 36,
+    "taxaResposta": "83%"
+  },
+  {
+    "id": "CUID-2026-00033",
+    "nomeCompleto": "Tatiane Rocha",
+    "genero": "Feminino",
+    "idade": 56,
+    "telefone": "(79) 93353-6121",
+    "email": "tatiane.rocha@email.com",
+    "cidade": "Lagarto",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Pessoas com Deficiência",
+    "especialidades": [
+      "Autismo (TEA)",
+      "Mobilidade assistida",
+      "Deficiência intelectual"
+    ],
+    "anosExperiencia": 10,
+    "escolaridade": "Ensino Técnico Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "Instituto Cuidar Mais",
+        "dataEmissao": "2018-11-13",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "Instituto Cuidar Mais",
+        "dataEmissao": "2016-12-02",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-869864"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Tarde",
+        "Noite"
+      ],
+      "diasDisponiveis": [
+        "Sexta",
+        "Segunda",
+        "Quarta",
+        "Terça",
+        "Quinta",
+        "Sábado",
+        "Domingo"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Nossa Senhora do Socorro"
+      ],
+      "raioAtendimentoKm": 10
+    },
+    "valores": {
+      "valorDiaria": 134.83,
+      "valorMensal": 2837.2,
+      "valorHora": 28.46,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.0,
+      "totalAvaliacoes": 31
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": true,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2024-09-15",
+    "contratosRealizados": 15,
+    "taxaResposta": "76%"
+  },
+  {
+    "id": "CUID-2026-00034",
+    "nomeCompleto": "João Pedro Silva",
+    "genero": "Masculino",
+    "idade": 25,
+    "telefone": "(79) 95728-2204",
+    "email": "joao.pedro.silva@email.com",
+    "cidade": "Barra dos Coqueiros",
+    "estado": "SE",
+    "areaAtuacao": "Técnico de Enfermagem Domiciliar",
+    "especialidades": [
+      "Sondas e cateteres",
+      "Curativos",
+      "Monitoramento de sinais vitais"
+    ],
+    "anosExperiencia": 3,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2025-11-16",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2015-02-14",
+        "cargaHoraria": "40h"
+      },
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2020-07-12",
+        "cargaHoraria": "20h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-628750"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Noite",
+        "Manhã",
+        "Plantão 12x36"
+      ],
+      "diasDisponiveis": [
+        "Quinta",
+        "Quarta",
+        "Sábado"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Itabaiana"
+      ],
+      "raioAtendimentoKm": 30
+    },
+    "valores": {
+      "valorDiaria": 148.17,
+      "valorMensal": 1908.69,
+      "valorHora": 18.66,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.0,
+      "totalAvaliacoes": 37
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2025-09-18",
+    "contratosRealizados": 31,
+    "taxaResposta": "92%"
+  },
+  {
+    "id": "CUID-2026-00035",
+    "nomeCompleto": "Ricardo Rocha",
+    "genero": "Masculino",
+    "idade": 23,
+    "telefone": "(79) 97229-3421",
+    "email": "ricardo.rocha@email.com",
+    "cidade": "São Cristóvão",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador Hospitalar",
+    "especialidades": [
+      "Acompanhamento em internações",
+      "Comunicação com equipe médica",
+      "Cuidados intensivos básicos"
+    ],
+    "anosExperiencia": 2,
+    "escolaridade": "Ensino Médio Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2021-10-10",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2025-01-20",
+        "cargaHoraria": "80h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2025-10-19",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Manhã"
+      ],
+      "diasDisponiveis": [
+        "Quarta",
+        "Quinta",
+        "Terça",
+        "Sábado",
+        "Domingo",
+        "Segunda"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Lagarto",
+        "Nossa Senhora do Socorro",
+        "Aracaju"
+      ],
+      "raioAtendimentoKm": 30
+    },
+    "valores": {
+      "valorDiaria": 124.88,
+      "valorMensal": 2677.63,
+      "valorHora": 29.26,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.6,
+      "totalAvaliacoes": 35
+    },
+    "idiomas": [
+      "Inglês básico",
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2024-05-23",
+    "contratosRealizados": 13,
+    "taxaResposta": "92%"
+  },
+  {
+    "id": "CUID-2026-00036",
+    "nomeCompleto": "Felipe Barbosa",
+    "genero": "Masculino",
+    "idade": 52,
+    "telefone": "(79) 98849-4505",
+    "email": "felipe.barbosa@email.com",
+    "cidade": "Itabaiana",
+    "estado": "SE",
+    "areaAtuacao": "Babá",
+    "especialidades": [
+      "Recém-nascidos",
+      "Alimentação escolar",
+      "Educação infantil"
+    ],
+    "anosExperiencia": 12,
+    "escolaridade": "Ensino Médio Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2019-02-19",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2021-07-27",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2017-05-02",
+        "cargaHoraria": "60h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-968170"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Noite",
+        "Tarde",
+        "Manhã"
+      ],
+      "diasDisponiveis": [
+        "Sábado",
+        "Sexta",
+        "Terça",
+        "Domingo",
+        "Segunda",
+        "Quarta",
+        "Quinta"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "São Cristóvão",
+        "Lagarto"
+      ],
+      "raioAtendimentoKm": 25
+    },
+    "valores": {
+      "valorDiaria": 112.07,
+      "valorMensal": 3881.07,
+      "valorHora": 18.09,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.1,
+      "totalAvaliacoes": 43
+    },
+    "idiomas": [
+      "Espanhol básico",
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": false,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": true,
+    "dataCadastro": "2023-07-27",
+    "contratosRealizados": 11,
+    "taxaResposta": "99%"
+  },
+  {
+    "id": "CUID-2026-00037",
+    "nomeCompleto": "Vanessa Ribeiro",
+    "genero": "Feminino",
+    "idade": 53,
+    "telefone": "(79) 94159-2845",
+    "email": "vanessa.ribeiro@email.com",
+    "cidade": "Lagarto",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Idosos",
+    "especialidades": [
+      "Cuidados paliativos",
+      "Administração de medicamentos",
+      "Alzheimer"
+    ],
+    "anosExperiencia": 6,
+    "escolaridade": "Ensino Técnico Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2015-05-19",
+        "cargaHoraria": "120h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2020-05-15",
+        "cargaHoraria": "160h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-270387"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Noite",
+        "Tarde",
+        "Manhã"
+      ],
+      "diasDisponiveis": [
+        "Domingo",
+        "Quarta",
+        "Sexta",
+        "Terça",
+        "Segunda"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "São Cristóvão",
+        "Nossa Senhora do Socorro",
+        "Barra dos Coqueiros"
+      ],
+      "raioAtendimentoKm": 40
+    },
+    "valores": {
+      "valorDiaria": 111.45,
+      "valorMensal": 4450.55,
+      "valorHora": 26.12,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.4,
+      "totalAvaliacoes": 34
+    },
+    "idiomas": [
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2023-11-04",
+    "contratosRealizados": 29,
+    "taxaResposta": "79%"
+  },
+  {
+    "id": "CUID-2026-00038",
+    "nomeCompleto": "Vanessa Ribeiro",
+    "genero": "Feminino",
+    "idade": 54,
+    "telefone": "(79) 97121-7813",
+    "email": "vanessa.ribeiro@email.com",
+    "cidade": "Lagarto",
+    "estado": "SE",
+    "areaAtuacao": "Acompanhante Domiciliar",
+    "especialidades": [
+      "Auxílio em tarefas domésticas",
+      "Supervisão noturna",
+      "Auxílio na alimentação"
+    ],
+    "anosExperiencia": 10,
+    "escolaridade": "Ensino Superior Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2019-06-20",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Integral"
+      ],
+      "diasDisponiveis": [
+        "Sexta",
+        "Quinta",
+        "Domingo"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Nossa Senhora do Socorro",
+        "Estância",
+        "Itabaiana"
+      ],
+      "raioAtendimentoKm": 30
+    },
+    "valores": {
+      "valorDiaria": 124.26,
+      "valorMensal": 3248.98,
+      "valorHora": 20.8,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.3,
+      "totalAvaliacoes": 11
+    },
+    "idiomas": [
+      "Português",
+      "Inglês básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": true,
+    "aceitaPets": true,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2025-01-18",
+    "contratosRealizados": 29,
+    "taxaResposta": "91%"
+  },
+  {
+    "id": "CUID-2026-00039",
+    "nomeCompleto": "Wesley Batista",
+    "genero": "Masculino",
+    "idade": 23,
+    "telefone": "(79) 91987-2130",
+    "email": "wesley.batista@email.com",
+    "cidade": "São Cristóvão",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Pessoas com Deficiência",
+    "especialidades": [
+      "Autismo (TEA)",
+      "Deficiência visual",
+      "Mobilidade assistida"
+    ],
+    "anosExperiencia": 2,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2018-10-03",
+        "cargaHoraria": "20h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-133276"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Tarde",
+        "Integral"
+      ],
+      "diasDisponiveis": [
+        "Quarta",
+        "Quinta",
+        "Sábado",
+        "Sexta",
+        "Terça",
+        "Segunda"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Aracaju"
+      ],
+      "raioAtendimentoKm": 30
+    },
+    "valores": {
+      "valorDiaria": 147.17,
+      "valorMensal": 2143.84,
+      "valorHora": 34.64,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.4,
+      "totalAvaliacoes": 6
+    },
+    "idiomas": [
+      "Libras",
+      "Português"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": true,
+    "dataCadastro": "2023-11-14",
+    "contratosRealizados": 39,
+    "taxaResposta": "94%"
+  },
+  {
+    "id": "CUID-2026-00040",
+    "nomeCompleto": "Larissa Pereira",
+    "genero": "Feminino",
+    "idade": 35,
+    "telefone": "(79) 96224-6253",
+    "email": "larissa.pereira@email.com",
+    "cidade": "Nossa Senhora do Socorro",
+    "estado": "SE",
+    "areaAtuacao": "Técnico de Enfermagem Domiciliar",
+    "especialidades": [
+      "Curativos",
+      "Aplicação de injeções",
+      "Monitoramento de sinais vitais"
+    ],
+    "anosExperiencia": 2,
+    "escolaridade": "Ensino Médio Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2022-10-22",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2015-04-24",
+        "cargaHoraria": "20h"
+      },
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Instituto Cuidar Mais",
+        "dataEmissao": "2022-04-18",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Integral",
+        "Tarde",
+        "Plantão 12x36"
+      ],
+      "diasDisponiveis": [
+        "Quarta",
+        "Segunda",
+        "Sexta",
+        "Terça",
+        "Domingo"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "São Cristóvão"
+      ],
+      "raioAtendimentoKm": 40
+    },
+    "valores": {
+      "valorDiaria": 180.56,
+      "valorMensal": 3921.67,
+      "valorHora": 23.42,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.1,
+      "totalAvaliacoes": 20
+    },
+    "idiomas": [
+      "Espanhol básico",
+      "Inglês básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": false,
+    "dataCadastro": "2023-09-14",
+    "contratosRealizados": 26,
+    "taxaResposta": "87%"
+  },
+  {
+    "id": "CUID-2026-00041",
+    "nomeCompleto": "Vanessa Ribeiro",
+    "genero": "Feminino",
+    "idade": 37,
+    "telefone": "(79) 91647-2192",
+    "email": "vanessa.ribeiro@email.com",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador Hospitalar",
+    "especialidades": [
+      "Acompanhamento em internações",
+      "Higiene hospitalar",
+      "Suporte pós-operatório"
+    ],
+    "anosExperiencia": 9,
+    "escolaridade": "Ensino Médio Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2016-08-28",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2023-12-27",
+        "cargaHoraria": "40h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Tarde",
+        "Noite"
+      ],
+      "diasDisponiveis": [
+        "Segunda",
+        "Terça",
+        "Sábado",
+        "Domingo",
+        "Quarta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Itabaiana",
+        "Lagarto",
+        "Aracaju"
+      ],
+      "raioAtendimentoKm": 25
+    },
+    "valores": {
+      "valorDiaria": 209.82,
+      "valorMensal": 3290.61,
+      "valorHora": 31.18,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.5,
+      "totalAvaliacoes": 45
+    },
+    "idiomas": [
+      "Inglês básico",
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": false,
+    "dataCadastro": "2024-07-02",
+    "contratosRealizados": 36,
+    "taxaResposta": "97%"
+  },
+  {
+    "id": "CUID-2026-00042",
+    "nomeCompleto": "Karina Batista",
+    "genero": "Feminino",
+    "idade": 31,
+    "telefone": "(79) 99037-8550",
+    "email": "karina.batista@email.com",
+    "cidade": "São Cristóvão",
+    "estado": "SE",
+    "areaAtuacao": "Babá",
+    "especialidades": [
+      "Alimentação escolar",
+      "Atividades lúdicas",
+      "Educação infantil"
+    ],
+    "anosExperiencia": 1,
+    "escolaridade": "Ensino Médio Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2024-12-14",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2018-06-08",
+        "cargaHoraria": "80h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2018-08-18",
+        "cargaHoraria": "160h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-868367"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Tarde"
+      ],
+      "diasDisponiveis": [
+        "Quinta",
+        "Terça",
+        "Sexta",
+        "Segunda",
+        "Quarta",
+        "Domingo",
+        "Sábado"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Aracaju",
+        "Lagarto"
+      ],
+      "raioAtendimentoKm": 15
+    },
+    "valores": {
+      "valorDiaria": 108.16,
+      "valorMensal": 2207.78,
+      "valorHora": 21.72,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.6,
+      "totalAvaliacoes": 48
+    },
+    "idiomas": [
+      "Português",
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2025-12-22",
+    "contratosRealizados": 27,
+    "taxaResposta": "95%"
+  },
+  {
+    "id": "CUID-2026-00043",
+    "nomeCompleto": "Fernanda Oliveira",
+    "genero": "Feminino",
+    "idade": 28,
+    "telefone": "(79) 98520-4984",
+    "email": "fernanda.oliveira@email.com",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Idosos",
+    "especialidades": [
+      "Pós-cirúrgico",
+      "Administração de medicamentos",
+      "Alzheimer"
+    ],
+    "anosExperiencia": 3,
+    "escolaridade": "Ensino Médio Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2023-05-27",
+        "cargaHoraria": "60h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Manhã",
+        "Integral",
+        "Tarde"
+      ],
+      "diasDisponiveis": [
+        "Quinta",
+        "Sexta",
+        "Domingo",
+        "Segunda",
+        "Quarta",
+        "Sábado"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Estância",
+        "Barra dos Coqueiros"
+      ],
+      "raioAtendimentoKm": 40
+    },
+    "valores": {
+      "valorDiaria": 194.13,
+      "valorMensal": 3327.81,
+      "valorHora": 32.59,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 5.0,
+      "totalAvaliacoes": 25
+    },
+    "idiomas": [
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2024-01-07",
+    "contratosRealizados": 37,
+    "taxaResposta": "74%"
+  },
+  {
+    "id": "CUID-2026-00044",
+    "nomeCompleto": "Marcos Vinícius Souza",
+    "genero": "Masculino",
+    "idade": 41,
+    "telefone": "(79) 96666-1879",
+    "email": "marcos.vinicius.souza@email.com",
+    "cidade": "Itabaiana",
+    "estado": "SE",
+    "areaAtuacao": "Acompanhante Domiciliar",
+    "especialidades": [
+      "Auxílio na alimentação",
+      "Auxílio em tarefas domésticas",
+      "Acompanhamento em consultas"
+    ],
+    "anosExperiencia": 6,
+    "escolaridade": "Ensino Fundamental Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2021-11-18",
+        "cargaHoraria": "60h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Noite"
+      ],
+      "diasDisponiveis": [
+        "Domingo",
+        "Sexta",
+        "Sábado",
+        "Quinta",
+        "Terça",
+        "Segunda",
+        "Quarta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "São Cristóvão"
+      ],
+      "raioAtendimentoKm": 30
+    },
+    "valores": {
+      "valorDiaria": 212.94,
+      "valorMensal": 2965.99,
+      "valorHora": 29.55,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 3.9,
+      "totalAvaliacoes": 48
+    },
+    "idiomas": [
+      "Português"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": false,
+    "dataCadastro": "2024-06-04",
+    "contratosRealizados": 5,
+    "taxaResposta": "70%"
+  },
+  {
+    "id": "CUID-2026-00045",
+    "nomeCompleto": "Fábio Araújo",
+    "genero": "Masculino",
+    "idade": 45,
+    "telefone": "(79) 92524-6315",
+    "email": "fabio.araujo@email.com",
+    "cidade": "Nossa Senhora do Socorro",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Pessoas com Deficiência",
+    "especialidades": [
+      "Mobilidade assistida",
+      "Autismo (TEA)",
+      "Deficiência física"
+    ],
+    "anosExperiencia": 9,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2017-07-15",
+        "cargaHoraria": "120h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-112940"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Plantão 12x36",
+        "Manhã"
+      ],
+      "diasDisponiveis": [
+        "Terça",
+        "Sexta",
+        "Sábado",
+        "Domingo",
+        "Quarta",
+        "Quinta",
+        "Segunda"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "São Cristóvão",
+        "Barra dos Coqueiros"
+      ],
+      "raioAtendimentoKm": 15
+    },
+    "valores": {
+      "valorDiaria": 107.59,
+      "valorMensal": 2973.63,
+      "valorHora": 25.16,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 3.9,
+      "totalAvaliacoes": 3
+    },
+    "idiomas": [
+      "Libras"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2024-10-13",
+    "contratosRealizados": 21,
+    "taxaResposta": "84%"
+  },
+  {
+    "id": "CUID-2026-00046",
+    "nomeCompleto": "Vinícius Mendes",
+    "genero": "Masculino",
+    "idade": 60,
+    "telefone": "(79) 97437-6980",
+    "email": "vinicius.mendes@email.com",
+    "cidade": "São Cristóvão",
+    "estado": "SE",
+    "areaAtuacao": "Técnico de Enfermagem Domiciliar",
+    "especialidades": [
+      "Sondas e cateteres",
+      "Aplicação de injeções",
+      "Fisioterapia respiratória básica"
+    ],
+    "anosExperiencia": 5,
+    "escolaridade": "Ensino Fundamental Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2018-08-11",
+        "cargaHoraria": "40h"
+      },
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Instituto Cuidar Mais",
+        "dataEmissao": "2020-05-24",
+        "cargaHoraria": "160h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Integral",
+        "Tarde",
+        "Noite"
+      ],
+      "diasDisponiveis": [
+        "Segunda",
+        "Sábado",
+        "Quinta",
+        "Terça",
+        "Sexta",
+        "Quarta",
+        "Domingo"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Lagarto"
+      ],
+      "raioAtendimentoKm": 20
+    },
+    "valores": {
+      "valorDiaria": 129.04,
+      "valorMensal": 3578.39,
+      "valorHora": 30.16,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.1,
+      "totalAvaliacoes": 26
+    },
+    "idiomas": [
+      "Libras",
+      "Inglês básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2025-10-02",
+    "contratosRealizados": 36,
+    "taxaResposta": "90%"
+  },
+  {
+    "id": "CUID-2026-00047",
+    "nomeCompleto": "Otávio Vieira",
+    "genero": "Masculino",
+    "idade": 43,
+    "telefone": "(79) 99199-3469",
+    "email": "otavio.vieira@email.com",
+    "cidade": "Nossa Senhora do Socorro",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador Hospitalar",
+    "especialidades": [
+      "Cuidados intensivos básicos",
+      "Suporte pós-operatório",
+      "Comunicação com equipe médica"
+    ],
+    "anosExperiencia": 14,
+    "escolaridade": "Ensino Técnico Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2019-04-17",
+        "cargaHoraria": "160h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-125755"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Noite"
+      ],
+      "diasDisponiveis": [
+        "Segunda",
+        "Domingo",
+        "Terça",
+        "Quarta",
+        "Sexta",
+        "Quinta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Barra dos Coqueiros",
+        "São Cristóvão",
+        "Estância"
+      ],
+      "raioAtendimentoKm": 10
+    },
+    "valores": {
+      "valorDiaria": 152.58,
+      "valorMensal": 3681.26,
+      "valorHora": 23.42,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.3,
+      "totalAvaliacoes": 25
+    },
+    "idiomas": [
+      "Inglês básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": false,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": false,
+    "dataCadastro": "2025-07-15",
+    "contratosRealizados": 14,
+    "taxaResposta": "95%"
+  },
+  {
+    "id": "CUID-2026-00048",
+    "nomeCompleto": "Guilherme Monteiro",
+    "genero": "Masculino",
+    "idade": 33,
+    "telefone": "(79) 94228-8496",
+    "email": "guilherme.monteiro@email.com",
+    "cidade": "Lagarto",
+    "estado": "SE",
+    "areaAtuacao": "Babá",
+    "especialidades": [
+      "Recém-nascidos",
+      "Atividades lúdicas",
+      "Alimentação escolar"
+    ],
+    "anosExperiencia": 3,
+    "escolaridade": "Ensino Fundamental Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Instituto Cuidar Mais",
+        "dataEmissao": "2021-01-24",
+        "cargaHoraria": "120h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2022-10-14",
+        "cargaHoraria": "80h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2018-04-09",
+        "cargaHoraria": "160h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-375097"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Noite",
+        "Plantão 12x36",
+        "Integral"
+      ],
+      "diasDisponiveis": [
+        "Sexta",
+        "Segunda",
+        "Quarta",
+        "Domingo",
+        "Terça",
+        "Sábado"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Aracaju",
+        "São Cristóvão",
+        "Nossa Senhora do Socorro"
+      ],
+      "raioAtendimentoKm": 15
+    },
+    "valores": {
+      "valorDiaria": 136.65,
+      "valorMensal": 2294.22,
+      "valorHora": 29.79,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.2,
+      "totalAvaliacoes": 13
+    },
+    "idiomas": [
+      "Libras",
+      "Português"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": true,
+    "dataCadastro": "2024-08-20",
+    "contratosRealizados": 3,
+    "taxaResposta": "97%"
+  },
+  {
+    "id": "CUID-2026-00049",
+    "nomeCompleto": "Carlos Eduardo Andrade",
+    "genero": "Masculino",
+    "idade": 53,
+    "telefone": "(79) 94613-5785",
+    "email": "carlos.eduardo.andrade@email.com",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Idosos",
+    "especialidades": [
+      "Administração de medicamentos",
+      "Mobilidade reduzida",
+      "Alzheimer"
+    ],
+    "anosExperiencia": 5,
+    "escolaridade": "Ensino Fundamental Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2023-11-16",
+        "cargaHoraria": "80h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2022-07-23",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Noite",
+        "Tarde",
+        "Plantão 12x36"
+      ],
+      "diasDisponiveis": [
+        "Sábado",
+        "Quinta",
+        "Sexta",
+        "Segunda",
+        "Quarta",
+        "Domingo",
+        "Terça"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Barra dos Coqueiros",
+        "Itabaiana",
+        "Aracaju"
+      ],
+      "raioAtendimentoKm": 25
+    },
+    "valores": {
+      "valorDiaria": 112.29,
+      "valorMensal": 4041.19,
+      "valorHora": 30.77,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 3.8,
+      "totalAvaliacoes": 38
+    },
+    "idiomas": [
+      "Português",
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2025-03-26",
+    "contratosRealizados": 13,
+    "taxaResposta": "96%"
+  },
+  {
+    "id": "CUID-2026-00050",
+    "nomeCompleto": "Ana Paula Ferreira",
+    "genero": "Feminino",
+    "idade": 58,
+    "telefone": "(79) 93078-3174",
+    "email": "ana.paula.ferreira@email.com",
+    "cidade": "Itabaiana",
+    "estado": "SE",
+    "areaAtuacao": "Acompanhante Domiciliar",
+    "especialidades": [
+      "Companhia e apoio emocional",
+      "Auxílio em tarefas domésticas",
+      "Auxílio na alimentação"
+    ],
+    "anosExperiencia": 12,
+    "escolaridade": "Ensino Médio Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2023-03-11",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2019-10-09",
+        "cargaHoraria": "120h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-253347"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Plantão 12x36"
+      ],
+      "diasDisponiveis": [
+        "Terça",
+        "Sexta",
+        "Quarta",
+        "Quinta",
+        "Domingo",
+        "Sábado"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Itabaiana",
+        "Lagarto"
+      ],
+      "raioAtendimentoKm": 20
+    },
+    "valores": {
+      "valorDiaria": 183.36,
+      "valorMensal": 4168.76,
+      "valorHora": 25.73,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 5.0,
+      "totalAvaliacoes": 5
+    },
+    "idiomas": [
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": true,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": false,
+    "dataCadastro": "2024-06-27",
+    "contratosRealizados": 18,
+    "taxaResposta": "80%"
+  },
+  {
+    "id": "CUID-2026-00051",
+    "nomeCompleto": "Luciana Dias",
+    "genero": "Feminino",
+    "idade": 53,
+    "telefone": "(79) 98009-4314",
+    "email": "luciana.dias@email.com",
+    "cidade": "Lagarto",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Pessoas com Deficiência",
+    "especialidades": [
+      "Deficiência física",
+      "Mobilidade assistida",
+      "Autismo (TEA)"
+    ],
+    "anosExperiencia": 11,
+    "escolaridade": "Ensino Médio Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2016-11-26",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-781571"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Noite"
+      ],
+      "diasDisponiveis": [
+        "Sábado",
+        "Quarta",
+        "Domingo"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Lagarto",
+        "Aracaju",
+        "Nossa Senhora do Socorro"
+      ],
+      "raioAtendimentoKm": 25
+    },
+    "valores": {
+      "valorDiaria": 175.07,
+      "valorMensal": 3760.17,
+      "valorHora": 30.84,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.3,
+      "totalAvaliacoes": 30
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2023-12-11",
+    "contratosRealizados": 7,
+    "taxaResposta": "97%"
+  },
+  {
+    "id": "CUID-2026-00052",
+    "nomeCompleto": "Alexandre Freitas",
+    "genero": "Masculino",
+    "idade": 30,
+    "telefone": "(79) 93181-3340",
+    "email": "alexandre.freitas@email.com",
+    "cidade": "Nossa Senhora do Socorro",
+    "estado": "SE",
+    "areaAtuacao": "Técnico de Enfermagem Domiciliar",
+    "especialidades": [
+      "Curativos",
+      "Monitoramento de sinais vitais",
+      "Aplicação de injeções"
+    ],
+    "anosExperiencia": 8,
+    "escolaridade": "Ensino Fundamental Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "Instituto Cuidar Mais",
+        "dataEmissao": "2016-12-26",
+        "cargaHoraria": "20h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Tarde",
+        "Plantão 12x36",
+        "Integral"
+      ],
+      "diasDisponiveis": [
+        "Sábado",
+        "Domingo",
+        "Terça",
+        "Quinta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Nossa Senhora do Socorro"
+      ],
+      "raioAtendimentoKm": 15
+    },
+    "valores": {
+      "valorDiaria": 190.29,
+      "valorMensal": 3391.85,
+      "valorHora": 24.53,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.0,
+      "totalAvaliacoes": 21
+    },
+    "idiomas": [
+      "Português",
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": true,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": false,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": false,
+    "dataCadastro": "2024-11-02",
+    "contratosRealizados": 15,
+    "taxaResposta": "85%"
+  },
+  {
+    "id": "CUID-2026-00053",
+    "nomeCompleto": "Rafael Oliveira",
+    "genero": "Masculino",
+    "idade": 37,
+    "telefone": "(79) 94534-1652",
+    "email": "rafael.oliveira@email.com",
+    "cidade": "Lagarto",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador Hospitalar",
+    "especialidades": [
+      "Acompanhamento em internações",
+      "Cuidados intensivos básicos",
+      "Higiene hospitalar"
+    ],
+    "anosExperiencia": 16,
+    "escolaridade": "Ensino Fundamental Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2023-01-12",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2021-10-14",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "Faculdade Estácio",
+        "dataEmissao": "2025-03-25",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-927630"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Noite",
+        "Plantão 12x36",
+        "Tarde"
+      ],
+      "diasDisponiveis": [
+        "Segunda",
+        "Sábado",
+        "Sexta",
+        "Terça",
+        "Quinta",
+        "Domingo"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Aracaju",
+        "Estância",
+        "Itabaiana"
+      ],
+      "raioAtendimentoKm": 20
+    },
+    "valores": {
+      "valorDiaria": 146.89,
+      "valorMensal": 3512.59,
+      "valorHora": 32.19,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 3.8,
+      "totalAvaliacoes": 6
+    },
+    "idiomas": [
+      "Português"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": true,
+    "fumante": true,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2025-12-22",
+    "contratosRealizados": 11,
+    "taxaResposta": "73%"
+  },
+  {
+    "id": "CUID-2026-00054",
+    "nomeCompleto": "Michele Freitas",
+    "genero": "Feminino",
+    "idade": 30,
+    "telefone": "(79) 95456-9582",
+    "email": "michele.freitas@email.com",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "areaAtuacao": "Babá",
+    "especialidades": [
+      "Alimentação escolar",
+      "Recém-nascidos",
+      "Rotina de estudos"
+    ],
+    "anosExperiencia": 1,
+    "escolaridade": "Ensino Fundamental Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2023-09-26",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2017-06-05",
+        "cargaHoraria": "160h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Plantão 12x36",
+        "Noite"
+      ],
+      "diasDisponiveis": [
+        "Quinta",
+        "Sexta",
+        "Terça"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Estância",
+        "Nossa Senhora do Socorro"
+      ],
+      "raioAtendimentoKm": 30
+    },
+    "valores": {
+      "valorDiaria": 180.89,
+      "valorMensal": 2111.4,
+      "valorHora": 30.59,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.8,
+      "totalAvaliacoes": 23
+    },
+    "idiomas": [
+      "Libras"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2024-04-14",
+    "contratosRealizados": 20,
+    "taxaResposta": "78%"
+  },
+  {
+    "id": "CUID-2026-00055",
+    "nomeCompleto": "Luciana Dias",
+    "genero": "Feminino",
+    "idade": 45,
+    "telefone": "(79) 95979-4974",
+    "email": "luciana.dias@email.com",
+    "cidade": "Itabaiana",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Idosos",
+    "especialidades": [
+      "Administração de medicamentos",
+      "Alzheimer",
+      "Mobilidade reduzida"
+    ],
+    "anosExperiencia": 4,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2017-04-26",
+        "cargaHoraria": "120h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2021-02-15",
+        "cargaHoraria": "60h"
+      },
+      {
+        "nome": "Certificado de Cuidador de Idosos",
+        "instituicaoEmissora": "Rede de Ensino Pró-Saúde",
+        "dataEmissao": "2019-06-03",
+        "cargaHoraria": "120h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-486162"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Integral"
+      ],
+      "diasDisponiveis": [
+        "Terça",
+        "Segunda",
+        "Quinta",
+        "Sábado"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Estância",
+        "Lagarto",
+        "Nossa Senhora do Socorro"
+      ],
+      "raioAtendimentoKm": 20
+    },
+    "valores": {
+      "valorDiaria": 100.18,
+      "valorMensal": 3574.72,
+      "valorHora": 32.43,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.1,
+      "totalAvaliacoes": 14
+    },
+    "idiomas": [
+      "Libras",
+      "Português"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2024-12-03",
+    "contratosRealizados": 37,
+    "taxaResposta": "73%"
+  },
+  {
+    "id": "CUID-2026-00056",
+    "nomeCompleto": "Silvia Monteiro",
+    "genero": "Feminino",
+    "idade": 47,
+    "telefone": "(79) 92785-3546",
+    "email": "silvia.monteiro@email.com",
+    "cidade": "Itabaiana",
+    "estado": "SE",
+    "areaAtuacao": "Acompanhante Domiciliar",
+    "especialidades": [
+      "Auxílio em tarefas domésticas",
+      "Companhia e apoio emocional",
+      "Auxílio na alimentação"
+    ],
+    "anosExperiencia": 3,
+    "escolaridade": "Ensino Fundamental Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2021-11-05",
+        "cargaHoraria": "40h"
+      },
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2019-06-26",
+        "cargaHoraria": "80h"
+      },
+      {
+        "nome": "Certificado de Acompanhante Domiciliar",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2020-06-15",
+        "cargaHoraria": "60h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-272359"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Noite",
+        "Plantão 12x36"
+      ],
+      "diasDisponiveis": [
+        "Sexta",
+        "Quarta",
+        "Terça"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "São Cristóvão",
+        "Nossa Senhora do Socorro"
+      ],
+      "raioAtendimentoKm": 10
+    },
+    "valores": {
+      "valorDiaria": 118.91,
+      "valorMensal": 3652.35,
+      "valorHora": 32.05,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.7,
+      "totalAvaliacoes": 10
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Em análise",
+    "perfilVerificado": true,
+    "dataCadastro": "2024-08-18",
+    "contratosRealizados": 35,
+    "taxaResposta": "77%"
+  },
+  {
+    "id": "CUID-2026-00057",
+    "nomeCompleto": "Simone Araújo",
+    "genero": "Feminino",
+    "idade": 28,
+    "telefone": "(79) 92228-1357",
+    "email": "simone.araujo@email.com",
+    "cidade": "Nossa Senhora do Socorro",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador de Pessoas com Deficiência",
+    "especialidades": [
+      "Deficiência visual",
+      "Deficiência física",
+      "Mobilidade assistida"
+    ],
+    "anosExperiencia": 3,
+    "escolaridade": "Ensino Fundamental Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador de Pessoas com Deficiência",
+        "instituicaoEmissora": "SENAC-SE",
+        "dataEmissao": "2018-03-07",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": {
+      "tipo": "COREN",
+      "numero": "SE-307356"
+    },
+    "disponibilidade": {
+      "turnos": [
+        "Manhã"
+      ],
+      "diasDisponiveis": [
+        "Segunda",
+        "Domingo",
+        "Quinta",
+        "Sábado",
+        "Sexta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Nossa Senhora do Socorro",
+        "Barra dos Coqueiros"
+      ],
+      "raioAtendimentoKm": 40
+    },
+    "valores": {
+      "valorDiaria": 151.2,
+      "valorMensal": 2755.65,
+      "valorHora": 33.44,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.1,
+      "totalAvaliacoes": 39
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": true,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": false,
+    "dataCadastro": "2024-03-14",
+    "contratosRealizados": 12,
+    "taxaResposta": "90%"
+  },
+  {
+    "id": "CUID-2026-00058",
+    "nomeCompleto": "Silvia Monteiro",
+    "genero": "Feminino",
+    "idade": 56,
+    "telefone": "(79) 98728-9674",
+    "email": "silvia.monteiro@email.com",
+    "cidade": "Barra dos Coqueiros",
+    "estado": "SE",
+    "areaAtuacao": "Técnico de Enfermagem Domiciliar",
+    "especialidades": [
+      "Aplicação de injeções",
+      "Curativos",
+      "Fisioterapia respiratória básica"
+    ],
+    "anosExperiencia": 1,
+    "escolaridade": "Ensino Técnico Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2022-09-26",
+        "cargaHoraria": "80h"
+      },
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2024-09-11",
+        "cargaHoraria": "80h"
+      },
+      {
+        "nome": "Certificado de Técnico de Enfermagem Domiciliar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2017-01-11",
+        "cargaHoraria": "120h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Manhã"
+      ],
+      "diasDisponiveis": [
+        "Sábado",
+        "Terça",
+        "Quarta",
+        "Segunda"
+      ],
+      "disponivelFinaisDeSemana": true,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Estância",
+        "Aracaju"
+      ],
+      "raioAtendimentoKm": 15
+    },
+    "valores": {
+      "valorDiaria": 128.39,
+      "valorMensal": 2658.61,
+      "valorHora": 30.55,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.8,
+      "totalAvaliacoes": 5
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": false,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": false,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2023-10-08",
+    "contratosRealizados": 1,
+    "taxaResposta": "86%"
+  },
+  {
+    "id": "CUID-2026-00059",
+    "nomeCompleto": "Carlos Eduardo Andrade",
+    "genero": "Masculino",
+    "idade": 43,
+    "telefone": "(79) 92188-7120",
+    "email": "carlos.eduardo.andrade@email.com",
+    "cidade": "Aracaju",
+    "estado": "SE",
+    "areaAtuacao": "Cuidador Hospitalar",
+    "especialidades": [
+      "Suporte pós-operatório",
+      "Cuidados intensivos básicos",
+      "Acompanhamento em internações"
+    ],
+    "anosExperiencia": 20,
+    "escolaridade": "Ensino Superior Incompleto",
+    "certificados": [
+      {
+        "nome": "Certificado de Cuidador Hospitalar",
+        "instituicaoEmissora": "SESC",
+        "dataEmissao": "2017-06-02",
+        "cargaHoraria": "20h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Noite",
+        "Integral"
+      ],
+      "diasDisponiveis": [
+        "Terça",
+        "Sábado",
+        "Quinta",
+        "Sexta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": true
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Itabaiana",
+        "Lagarto",
+        "Estância"
+      ],
+      "raioAtendimentoKm": 20
+    },
+    "valores": {
+      "valorDiaria": 126.79,
+      "valorMensal": 3390.17,
+      "valorHora": 20.98,
+      "aceitaNegociacao": false
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": false,
+      "documentoIdentidadeVerificado": false,
+      "verificacaoFacialConcluida": false
+    },
+    "avaliacoes": {
+      "notaMedia": 4.8,
+      "totalAvaliacoes": 35
+    },
+    "idiomas": [
+      "Espanhol básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": false,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2025-10-04",
+    "contratosRealizados": 31,
+    "taxaResposta": "74%"
+  },
+  {
+    "id": "CUID-2026-00060",
+    "nomeCompleto": "Wesley Batista",
+    "genero": "Masculino",
+    "idade": 26,
+    "telefone": "(79) 96742-5205",
+    "email": "wesley.batista@email.com",
+    "cidade": "São Cristóvão",
+    "estado": "SE",
+    "areaAtuacao": "Babá",
+    "especialidades": [
+      "Recém-nascidos",
+      "Alimentação escolar",
+      "Atividades lúdicas"
+    ],
+    "anosExperiencia": 2,
+    "escolaridade": "Ensino Fundamental Completo",
+    "certificados": [
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "Cruz Vermelha",
+        "dataEmissao": "2025-02-27",
+        "cargaHoraria": "160h"
+      },
+      {
+        "nome": "Certificado de Babá",
+        "instituicaoEmissora": "UFS - Extensão",
+        "dataEmissao": "2025-12-11",
+        "cargaHoraria": "80h"
+      }
+    ],
+    "registroConselho": null,
+    "disponibilidade": {
+      "turnos": [
+        "Plantão 12x36"
+      ],
+      "diasDisponiveis": [
+        "Sábado",
+        "Quinta",
+        "Terça",
+        "Domingo",
+        "Sexta",
+        "Quarta"
+      ],
+      "disponivelFinaisDeSemana": false,
+      "inicioImediato": false
+    },
+    "regiaoAtendimento": {
+      "cidadesAtendidas": [
+        "Estância"
+      ],
+      "raioAtendimentoKm": 25
+    },
+    "valores": {
+      "valorDiaria": 194.65,
+      "valorMensal": 3360.75,
+      "valorHora": 30.89,
+      "aceitaNegociacao": true
+    },
+    "documentacao": {
+      "antecedentesCriminaisVerificado": true,
+      "documentoIdentidadeVerificado": true,
+      "verificacaoFacialConcluida": true
+    },
+    "avaliacoes": {
+      "notaMedia": 4.6,
+      "totalAvaliacoes": 17
+    },
+    "idiomas": [
+      "Inglês básico"
+    ],
+    "possuiVeiculoProprio": true,
+    "possuiCNH": false,
+    "fumante": false,
+    "aceitaPets": true,
+    "vacinasEmDia": true,
+    "statusPerfil": "Aprovado",
+    "perfilVerificado": true,
+    "dataCadastro": "2024-03-24",
+    "contratosRealizados": 4,
+    "taxaResposta": "87%"
+  }
+]
